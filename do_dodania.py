@@ -4,7 +4,7 @@
 #     else:
 #         return 0
 #
-# cennik = {"woda": 2, "chleb": 3, "komputer": 5000, "roślina": 20}
+# cennik = {"woda": 2, "chleb": 3, "komputer": 5000, "roślina": 20, "piwko": 3, "papieroski": 16}
 #
 # for i in range (3):
 #     produkt = input("Cenę którego produktu chcesz poznać?")
